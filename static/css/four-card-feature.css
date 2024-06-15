@@ -2,6 +2,7 @@ html {
 	height: 100%;
 	width: 100%;
 	font-family: "Poppins";
+	background-color: #FAFAFA;
 }
 
 #flex-container {
@@ -13,6 +14,7 @@ html {
 }
 
 .small-container {
+	background-color: white;
 	text-align: right; /* for image */
 	padding: 30px;
 	border-radius: 10px;
