@@ -30,7 +30,7 @@ html {
 
 h2 {
 	font-weight: 600;
-	font-size: 1.6em;
+	font-size: 1.8em;
 }
 
 h3 {
@@ -65,14 +65,14 @@ h2, h3 {
 
 @media (min-width: 48em) {
 	#intro-text {
-		max-width: 700px;
+		max-width: 600px;
 		text-align: center;
 		margin: 25px auto;
 	}
 
 	.small-container {
 		max-height: 300px;
-		max-width: 360px;
+		max-width: 330px;
 	}
 
 	#flex-container {
